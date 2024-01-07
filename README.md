@@ -34,8 +34,8 @@
 ## Setup
 Run `npm install` to install required dependencies.
 
-## Demo
-http://localhost:1212/users/signin
+## Rendering 
+https://placement-cell-web-app-ls74.onrender.com
 
 ## Author
 Bhupendra Giradkar
