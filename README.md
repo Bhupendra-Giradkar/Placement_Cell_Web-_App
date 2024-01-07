@@ -33,3 +33,9 @@
 
 ## Setup
 Run `npm install` to install required dependencies.
+
+## Demo
+http://localhost:1212/users/signin
+
+## Author
+Bhupendra Giradkar
