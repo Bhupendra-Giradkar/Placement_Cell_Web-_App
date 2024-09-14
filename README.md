@@ -1,15 +1,26 @@
-<h1 align="center">Placement_Cell_Web-App</h1> 
-<p align="center">
- An interface for coding ninjas placement cell to keep records of students and schedule interviews with different companies.<br>
-     This App built using <a href="https://ejs.co/">EJS</a>, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://expressjs.com/">ExpressJs</a>, <a href="https://nodejs.org/en/">NodeJs</a> and <a href="http://www.passportjs.org/">PassportJS</a>
-</p>
+# Placement Cell Interface
+This application serves as an interface for the Placement Cell Web APp, designed to manage student records and schedule interviews with various companies.
+
+## Rendering 
+ [Visit Now](https://placement-cell-web-app-ls74.onrender.com) 🚀
+
+## Tech Stack
+- `EJS` : For building dynamic HTML pages with embedded JavaScript.
+- `Passport.js` : For implementing secure authentication.
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) : As the database to store student and interview records.
+- ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) : For handling server-side logic and routing.
+- ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) : As the runtime environment for executing server-side JavaScript.
+
 
 ## Features
-
-- Sign up / Sign in forms for employees.
-- Add a new student to the list of students.
-- Allocate and schedule interview with different companies and update their result status.
-- Download reports of students in csv format.
+- Admin Login: Secure login functionality for the admin.
+- View Student Records: Admin can access and view a list of all students with their details.
+- Add New Students: Admin can add new students by entering their personal and academic information.
+- Update Interview Details: Admin can update interview information, including:
+  - Company name
+  - Interview date
+  - Placement status (Placed/Not Placed)
+- Export Data: Admin can download all student and interview data in Excel format for easy reporting and analysis.
 
 ## Screenshots
 
@@ -32,10 +43,8 @@
 <img width="956" alt="image" src="https://github.com/Bhupendra-Giradkar/Placement_Cell_Web-App/assets/149242441/bf50d209-17f3-4455-b0a4-4f597d9bd241">
 
 ## Setup
-Run `npm install` to install required dependencies.
+1. Clone Repository [Click Here](https://github.com/Bhupendra-Giradkar/Placement_Cell_Web-App) 
+2. Run `npm install` to install required dependencies.
+3. Start Delevopment Server `node index.js`
+4. Open your browser and go to `http://localhost:1212`.
 
-## Rendering 
-https://placement-cell-web-app-ls74.onrender.com
-
-## Author
-Bhupendra Giradkar
