@@ -5,7 +5,7 @@ This application serves as an interface for the Placement Cell Web APp, designed
  [Visit Now](https://placement-cell-web-app-ls74.onrender.com) 🚀
 
 ## Tech Stack
-- `EJS` : For building dynamic HTML pages with embedded JavaScript.
+-  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), `EJS` : For building dynamic HTML pages with embedded JavaScript.
 - `Passport.js` : For implementing secure authentication.
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) : As the database to store student and interview records.
 - ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) : For handling server-side logic and routing.
