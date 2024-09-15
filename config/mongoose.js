@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
-const DB = `mongodb://127.0.0.1:27017/Placement_Cell_Web_App`;
 
+const DB = `mongodb+srv://bhupendra_giradkar:bhupendra12345@cluster0.vo8vv.mongodb.net/`;
 mongoose.connect(DB, {
 	useNewUrlParser: true,
 	useUnifiedTopology: true,
